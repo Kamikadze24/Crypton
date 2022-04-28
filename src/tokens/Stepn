@@ -1,0 +1,17 @@
+{
+      "chainId": 101,
+      "address": "J71S7StudECFcGy7AXWk6wuViXexb64A8dseppEUpkxM",
+      "symbol": "Stepn",
+      "name": "Stepn",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/Kamikadze24/Crypton/Kamikadze24-patch-1/src/tokens/1_we34Q0tLfIjygsJHe6rjfg.png",
+      "tags": [
+        "currency",
+        "nft"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Stepn",
+        "twitter": "https://twitter.com/Stepn",
+        "website": "https://Stepn.com/"
+      }
+    }
